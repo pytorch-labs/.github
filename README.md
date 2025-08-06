@@ -1,1 +1,1 @@
-# This org was renamed to github.com/meta-pytorch
+# This org was renamed to https://github.com/meta-pytorch
